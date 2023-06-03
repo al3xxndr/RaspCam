@@ -1,33 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Raspberry Pi SSH and Camera Setup</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
 
-    h1 {
-      color: #333;
-      font-size: 24px;
-    }
-
-    h2 {
-      color: #666;
-      font-size: 20px;
-      margin-top: 10px;
-    }
-
-    ol {
-      margin-top: 10px;
-    }
-
-    li {
-      margin-bottom: 5px;
-    }
-  </style>
-</head>
 <body>
   <h1>Raspberry Pi SSH and Camera Setup</h1>
 
